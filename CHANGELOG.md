@@ -1,5 +1,13 @@
 # Changelog
 
+### [1.0.3](https://github.com/extra2000/nodejs-formula/compare/v1.0.2...v1.0.3) (2020-10-04)
+
+
+### Continuous Integrations
+
+* **semantic-release:** Add fix type ([4e5a87c](https://github.com/extra2000/nodejs-formula/commit/4e5a87ce0300a253b73d0d373ba012c4714fde28))
+* **semantic-release:** Fix patch updates with BREAKING CHANGE doesn't trigger major release ([b441396](https://github.com/extra2000/nodejs-formula/commit/b4413965b2e25caf2369c991aa2fa2f38e6157ca))
+
 ### [1.0.2](https://github.com/extra2000/nodejs-formula/compare/v1.0.1...v1.0.2) (2020-10-01)
 
 
